@@ -5,6 +5,7 @@
   background-color:  #f2f2f2;
   position: relative;
   display: flex;
+  overflow: hidden;
 }
 
 .logo_place_header {
