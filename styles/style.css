@@ -230,33 +230,11 @@
   color: #ffffff;
 }
 
-.table {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  width: 1100px;
-  margin: 0 auto;
-}
-
 .table__cell_theme_dark {
   width: 200px;
   color: white;
   margin-right: 0;
   margin-top: 80px;
-}
-
-.table__heading {
-  line-height: 1.15;
-  font-size: 24px;
-  font-weight: 700;
-  margin: 0px 0px 20px 0px;
-}
-
-.table__text {
-  line-height: 1.2;
-  font-size: 18px;
-  font-weight: 400;
-  margin: 0;
 }
 
 .kaufman__triangle {
